@@ -1,11 +1,17 @@
 # LoginAutomation
 Para correr el programa se necesita:
 Python 3.6 o anterior
+
 selenium(pip install selenium)
+
 pandas(pip install pandas)
+
 chromedriver(https://chromedriver.chromium.org/downloads)
+
 cambiar la ruta C:/Users/ferhs/OneDrive/Documentos/ChallengeCrowdar/casosDePrueba.csv donde guarde el archivo casosDePrueba
+
 cambiar la ruta C:/Users/ferhs/OneDrive/Documentos/ChallengeCrowdar/chromedriver_win32/chromedriver.exe donde guarde el chromedriver
+
 
 En casosDePrueba.csv se encuentran los casos de prueba que corre el codigo
 
