@@ -1,0 +1,10 @@
+;user;pass;Login
+0;standard_user;secret_sauce;Anduvo
+1;locked_out_user;secret_sauce;Fallo
+2;problem_user;secret_sauce;Anduvo
+3;performance_glitch_user;secret_sauce;Anduvo
+4;standard_user;asd;Anduvo
+5;locked_out_user;asd;Anduvo
+6;problem_user;asd;Anduvo
+7;performance_glitch_user;asd;Anduvo
+8;assad;secret_sauce;Anduvo

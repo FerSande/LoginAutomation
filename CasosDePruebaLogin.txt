@@ -1,0 +1,11 @@
+casos de prueba de login
+user;pass;Login
+standard_user;secret_sauce;Login successful
+locked_out_user;secret_sauce;Login successful
+problem_user;secret_sauce;Login successful
+performance_glitch_user;secret_sauce;Login successful
+standard_user;asd;Login failed
+locked_out_user;asd;Login failed
+problem_user;asd;Login failed
+performance_glitch_user;asd;Login failed
+assad;secret_sauce;Login failed
